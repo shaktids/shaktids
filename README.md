@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Shakti Das
-- 👀 I’m interested in Early Retirement from the work
-- 🌱 I’m a love to learn new technology 
-- 💞️ Looking for a collaborator to work on the https://tradingfunda.com/
-- 📫 How to reach me shakti.ds@gmail.com ...
-- https://www.linkedin.com/in/theshaktidas/
+- 👋 Hi, I’m **Shakti Das**!  
+- 👀 Passionate about exploring paths to **early retirement**.  
+- 🌱 Always eager to learn and dive into **new technologies**.  
+- 💞️ Seeking collaborators for exciting projects like [Trading Funda](https://tradingfunda.com/).  
+- 📫 Reach out to me at **shakti.ds@gmail.com**.  
+- 🔗 Connect with me on LinkedIn: [Shakti Das](https://www.linkedin.com/in/theshaktidas/).  
 
 <!---
 shaktids is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
